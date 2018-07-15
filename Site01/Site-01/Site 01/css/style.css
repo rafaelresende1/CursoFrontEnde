@@ -147,7 +147,7 @@ nav a.btn_destaque {
 .metade form {
     line-height: 250%;
 }
-.metade form input[type=text], textarea {
+.metade form input[type=text], textarea { /*type faz que só funcione no tipo informado*/
     border: none;
     border-bottom: 1px solid lightgray;
     width: 63%;
